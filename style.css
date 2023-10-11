@@ -57,7 +57,8 @@ button {
 .text p {
   font-size: 20px;
   margin-top: 10px;
-  color: black;
+  color: #fff;
+  background-color: #4949e7;
 }
 
 .image_gallery{
